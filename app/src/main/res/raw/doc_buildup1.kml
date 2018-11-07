@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bayview Golf Club</name>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin50001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin50010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin126</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl06</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin22000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin3001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin016">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin014</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Vendor</name>
+		<open>1</open>
+		<description>name=
+source=GE Pro
+date=March 19th 2016
+timezone=Australia/Sydney</description>
+		<Placemark>
+			<name>clubhouse</name>
+			<LookAt>
+				<longitude>151.300950491155</longitude>
+				<latitude>-33.67072991263822</latitude>
+				<altitude>0</altitude>
+				<heading>100.6517659962738</heading>
+				<tilt>25.41651044889043</tilt>
+				<range>241.720816572865</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin120</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.3013964117541,-33.67024318925681,0</coordinates>
+			</Point>
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

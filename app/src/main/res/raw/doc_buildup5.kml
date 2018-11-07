@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bayview Golf Club</name>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin50001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin50010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin126</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl06</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin22000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin3001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin016">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin014</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Vendor</name>
+		<open>1</open>
+		<description>name=
+source=GE Pro
+date=March 19th 2016
+timezone=Australia/Sydney</description>
+		<Placemark>
+			<name>clubhouse</name>
+			<LookAt>
+				<longitude>151.300950491155</longitude>
+				<latitude>-33.67072991263822</latitude>
+				<altitude>0</altitude>
+				<heading>100.6517659962738</heading>
+				<tilt>25.41651044889043</tilt>
+				<range>241.720816572865</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin120</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>151.3013964117541,-33.67024318925681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>demopath</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					151.3014946827394,-33.67038031461168,0 151.3015637920953,-33.67042512756694,0 151.3015455417337,-33.67037728257643,0 151.3014175146919,-33.66997679174783,0 151.3019829706468,-33.67017474911306,0 151.3018877564369,-33.67006861363723,0 151.301710104725,-33.66994611805525,0 151.301506539383,-33.66991138073715,0 151.301221493559,-33.66949609796244,0 151.3006149573199,-33.66782003976281,0 151.300497371057,-33.66688351979587,0 151.2999945045999,-33.6670053878049,0 151.3001105534946,-33.66687376514897,0 151.2997491866954,-33.66698604719426,0 151.2972479438538,-33.66810852961967,0 151.2960297595581,-33.66882308036039,0 151.2956805927207,-33.66886430874777,0 151.2958268423561,-33.66865276543837,0 151.2956081475056,-33.66872109622496,0 151.2938040353895,-33.66929527563035,0 151.2923118012012,-33.66891762383545,0 151.2915511698451,-33.6681325840017,0 151.2917680392321,-33.66817219113686,0 151.2914896920082,-33.66799857575042,0 151.2911548387266,-33.66731506952704,0 151.2909118180437,-33.66697854414898,0 151.2910757639601,-33.66658486641727,0 151.290884557295,-33.6664500949942,0 151.2910038275348,-33.66658542125788,0 151.2924785609944,-33.66804447366253,0 151.2931880853435,-33.66820660221063,0 151.2933063849849,-33.66800763666065,0 151.2934853302815,-33.66803362916929,0 151.2915088615522,-33.66662439815016,0 151.2909772448848,-33.66614318718479,0 151.2905789026469,-33.66594210989452,0 151.2906217199888,-33.66604183697671,0 151.2906741036291,-33.66639857969691,0 151.290598510422,-33.66654601279751,0 151.2907618939243,-33.66595381276436,0 151.2901002551058,-33.66791630092267,0 151.2910290546693,-33.66886574129245,0 151.2919555174861,-33.66907629237104,0 151.2918172384308,-33.66907103056072,0 151.2920950523014,-33.66919145419262,0 151.2929436449835,-33.66979165499677,0 151.2930501942045,-33.67061165311709,0 151.292898131898,-33.67072781917197,0 151.2931807683507,-33.67060865075329,0 151.2955824444814,-33.66963020882037,0 151.2962345538012,-33.66950931127708,0 151.2973797928992,-33.67076045532084,0 151.297534967529,-33.67078200811157,0 151.2977435778215,-33.67058715057413,0 151.2986894416818,-33.66983470641933,0 151.2990780581475,-33.66962393219352,0 151.2993114304961,-33.66961682499043,0 151.2992936699249,-33.66940099143968,0 151.2993854912759,-33.66977676690254,0 151.3001295352901,-33.67041630356996,0 151.3003719258669,-33.67077336898782,0 151.3007893124683,-33.67067127681079,0 151.3008720521737,-33.67074011150542,0 151.3007777875635,-33.67057959742921,0 151.3000225804852,-33.6696888386324,0 151.2997317587295,-33.66931472618013,0 151.2997758190687,-33.66876903479955,0 151.2997812419452,-33.66868961290832,0 151.2997987978355,-33.6688225076261,0 151.2978563286037,-33.6698593120054,0 151.2971397259214,-33.67043624736965,0 151.2959981825379,-33.66985278110741,0 151.2960269005488,-33.66984400878236,0 151.2958628610809,-33.66991912154708,0 151.2940910567699,-33.6708503731473,0 151.2932067874792,-33.67100663248569,0 151.2926657006736,-33.67063948141264,0 151.2927548765683,-33.67052533928261,0 151.2930095589997,-33.67040320557297,0 151.2931917745192,-33.67037636475821,0 151.2953871447028,-33.6692452708289,0 151.296804957774,-33.66911143198053,0 151.2982138399869,-33.66873757422925,0 151.2981668925302,-33.66866072363594,0 151.2979199151536,-33.66888961259557,0 151.297623157122,-33.66885733856345,0 151.296740363191,-33.66950302489937,0 151.2954784716025,-33.67029190185878,0 151.2954599253276,-33.67038650170284,0 151.2960881590112,-33.67015450212167,0 151.2990119140393,-33.66870443826458,0 151.2996840472193,-33.6683021069136,0 151.3002282932617,-33.66797478992693,0 151.3001554744124,-33.66775284481028,0 151.3000842041606,-33.6674397761382,0 151.29996855069,-33.66722700196321,0 151.3005186924782,-33.66943466563374,0 151.300798996832,-33.66999647803532,0 151.301713564947,-33.67012288809401,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>demopath_geotest</name>
+			<styleUrl>#m_ylw-pushpin44</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					151.3016561385367,-33.6700809546199,0 151.3016013909476,-33.67006540447287,0 151.3014310508398,-33.66999458621828,0 151.3004567716881,-33.66715869654646,0 151.3004498332282,-33.66698279255268,0 151.3004456386229,-33.66694013904851,0 151.3004109474263,-33.66693985270007,0 151.3002340938645,-33.66713261413293,0 151.3001582926055,-33.66692567569003,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>Geo Fence Areas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>H01GW</name>
+				<visibility>0</visibility>
+				<description>type=green
+camera=off
+audio=on
+enabled=yes
+hole=1</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl><!-- #msn_ylw-pushpin613-->
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								151.3003827129033,-33.66682548158882,0 151.3003319149546,-33.66689578082023,0 151.300324850276,-33.66695942527901,0 151.3003603080546,-33.66702668946165,0 151.3004142963522,-33.66707159188112,0 151.3004768170998,-33.66708225142467,0 151.3005363618934,-33.66706922744387,0 151.3007012280712,-33.66678711113465,0 151.3005664993588,-33.66670044411423,0 151.3003827129033,-33.66682548158882,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Home Base Areas</name>
+			<open>1</open>
+			<Placemark>
+				<name>HB1</name>
+				<description>r=8</description>
+				<LookAt>
+					<longitude>151.3015297649431</longitude>
+					<latitude>-33.67006587304638</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002255510973443707</heading>
+					<tilt>33.04061995207596</tilt>
+					<range>118.4690842175398</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ltblu-pushpin6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>151.3016719553101,-33.67014309350519,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Trigger Areas</name>
+			<Placemark>
+				<name>H01TZ1</name>
+				<description>r=8</description>
+				<LookAt>
+					<longitude>151.3016466766602</longitude>
+					<latitude>-33.6701123439047</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002320328019936332</heading>
+					<tilt>33.03980892228424</tilt>
+					<range>117.3794235755994</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>151.3014259106495,-33.66998656768521,0</coordinates>
+				</Point>
+			</Placemark>
+
+		</Folder>
+	</Folder>
+
+</Document>
+</kml>

@@ -1,0 +1,20 @@
+<placesp>
+<placep>
+  <place_id>1</place_id>
+  <name>Place1</name>
+  <description>Place description 1</description>
+  <coordinates>;40.430224;21.559570</coordinates>
+</placep>
+<placep>
+  <place_id>2</place_id>
+  <name>Place2</name>
+  <description>Place description 2</description>
+  <coordinates>;40.423324;21.062439</coordinates>
+</placep>
+<placep>
+  <place_id>3</place_id>
+  <name>Place3</name>
+  <description>Place description 3</description>
+  <coordinates>;40.266952;21.238220</coordinates>
+</placep>
+</placesp>

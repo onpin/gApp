@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#4169E1</color>
+    <color name="red">#FF0000</color>
+
+    <color name="text_numberpressed">#fff</color>
+    <color name="text_title">#dcddde</color>
+    <color name="layout_background">#18191A</color>
+    <color name="text_attempts">#bfc0c1</color>
+    <color name="text_fingerprint">#FF87898C</color>
+    <color name="button_notpressed">#2136FFD9</color>
+    <color name="dot_emptyborder">#87898C</color>
+    <color name="transparent">#00000000</color>
+    <color name="sky_blue_next_btn_color">#4169e1</color>
+    <color name="transparentPoly">#07000000</color>
+</resources>

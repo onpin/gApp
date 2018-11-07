@@ -1,0 +1,83 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="Waiting.."
+        android:inputType="textCapWords"
+        android:key="Stallite"
+        android:maxLines="1"
+        android:selectable="false"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Stallite Status" />
+
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="77"
+        android:inputType="number"
+        android:key="Cart"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:selectable="true"
+        android:singleLine="true"
+        android:title="Cart Number" />
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="Waiting.."
+        android:inputType="textCapWords"
+        android:key="Course"
+        android:maxLines="1"
+        android:selectable="false"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Course Package Vesion" />
+
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="Waiting.."
+        android:inputType="textCapWords"
+        android:key="Ad"
+        android:maxLines="1"
+        android:selectable="false"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Ad Package Version" />
+
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="Waiting.."
+        android:inputType="textCapWords"
+        android:key="Geofence"
+        android:maxLines="1"
+        android:selectable="false"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Geofence Package Version" />
+
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="Waiting.."
+        android:inputType="textCapWords"
+        android:key="Facility"
+        android:maxLines="1"
+        android:selectable="false"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Facility Name" />
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="Waiting.."
+        android:inputType="textCapWords"
+        android:key="Exit"
+        android:maxLines="1"
+        android:selectable="false"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Exit" />
+
+</PreferenceScreen>
